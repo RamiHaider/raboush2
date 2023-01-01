@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @raboush2
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning to code in python
-- 💞️ I’m looking to collaborate on any data-crunching, analysis type of project
-- 📫 How to reach me: Raboush2@uwo.ca,
+- 👋 Hi, I’m Rami Abou-Shamalah
+- 👀 I..LOVE....Prime Numbers and finding any patterns and regularities in them
+- 🌱 I’m interested in solving numerical problems using several programming languages
+- 💞️ I’m proficient in JavaScript, Java, Python, and MatLab
+- 📫 Reach me at ramiaboushamalah@gmail.com
 
 <!---
 raboush2/raboush2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
